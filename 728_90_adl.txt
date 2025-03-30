@@ -1,0 +1,10 @@
+<script type="text/javascript">
+	atOptions = {
+		'key' : '9f6cd48632c53ad04bb68aa082634213',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//potslascivious.com/9f6cd48632c53ad04bb68aa082634213/invoke.js"></script>
